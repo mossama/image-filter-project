@@ -48,5 +48,4 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 ## link to the endpoint URL for my running elastic beanstalk deployment
-
-image-filter-starter-code-dev222222222222222222222.us-east-1.elasticbeanstalk.com
+http://image-filter-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://static.onecms.io/wp-content/uploads/sites/43/2022/02/16/21014-Good-old-Fashioned-Pancakes-mfs_001.jpg
